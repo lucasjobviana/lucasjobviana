@@ -21,7 +21,7 @@ Tecnologias:
   
   ![GitHub Activity](https://img.shields.io/badge/GitHub-Activity-blue)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana&show_icons=true&bg_color=00000000)
 
   
   ![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-brightgreen)
