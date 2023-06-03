@@ -27,6 +27,10 @@ Tecnologias:
   ![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-brightgreen)
 
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana)](https://github.com/lucasjobviana/github-readme-stats)
+  
+  
+  
 </div>
 
 
