@@ -18,6 +18,15 @@ Tecnologias:
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lucasjobviana&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjobviana" />
 &nbsp;
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasjobviana&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjobviana" />
+  
+  ![GitHub Activity](https://img.shields.io/badge/GitHub-Activity-blue)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana&show_icons=true)
+
+  
+  ![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-brightgreen)
+
+  
 </div>
 
 
