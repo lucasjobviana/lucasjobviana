@@ -19,16 +19,11 @@ Tecnologias:
 &nbsp;
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasjobviana&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjobviana" />
   
-  ![GitHub Activity](https://img.shields.io/badge/GitHub-Activity-blue)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana&show_icons=true&bg_color=00000000)
 
   
-  ![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-brightgreen)
 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjobviana)](https://github.com/lucasjobviana/github-readme-stats)
-  
+
   
   
 </div>
